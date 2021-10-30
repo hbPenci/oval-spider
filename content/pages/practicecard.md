@@ -9,9 +9,6 @@ sections:
       are relevant when we want to understand how the work works. Capturing
       practices focuses the observation and analysis on activity, not the actor.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
