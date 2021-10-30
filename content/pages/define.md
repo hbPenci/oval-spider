@@ -20,10 +20,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: What do we mean by capability?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "A capability is the ability of a team or a collection of teams to deliver an outcome.\_ Capabilities are composed of the actual day-to-day practises that people and teams do to deliver the outcome.\_ Therefore, to improve a capability, one needs to improve the underlying practises.\_\_\_\n\n\nWhilst some capabilities may be common across organisations, there are many others that are unique as they exist to serve the needs of that organisation and its customer.\_ Even where there are common capabilities across organisations, it is very likely that the practises are different.\_\_\n"
         actions:
           - label: Learn More
             url: /style-guide
