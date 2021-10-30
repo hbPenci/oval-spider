@@ -13,7 +13,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Features",
+                "label": "What is Maturity Mapping?",
                 "url": "/features",
                 "style": "link"
             },
