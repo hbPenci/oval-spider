@@ -45,7 +45,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+      - subtitle: What’s a map?
         content: >
           Maturity Maps are a condensed visualisation of the network of
           capabilities and practices that organisations and teams use to meet
