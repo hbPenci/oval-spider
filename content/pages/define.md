@@ -6,10 +6,7 @@ sections:
     content: >
       In order to understand what Maturity Mapping is we’ll first explore three
       key terms, capability, maturity and mapping.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
