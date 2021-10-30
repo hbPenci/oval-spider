@@ -26,7 +26,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Patterns of movement and change
         content: >-
           ## Lorem ipsum
 
