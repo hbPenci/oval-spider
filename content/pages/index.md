@@ -16,8 +16,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: discover the new capabilities you need
-      - title: understand the change required
-        actions: []
+      - actions: []
         image: /images/blush_mm.png
         image_alt: Feature 3 placeholder image
         media_position: right
