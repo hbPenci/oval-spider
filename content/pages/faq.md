@@ -12,7 +12,7 @@ sections:
     grid_items:
       - content: "Remove friction between practices, capabilities or silos of practice (e.g. departments, teams, experts within teams) by highlighting misalignments in how the work is configured.\n\nShorten the time to embed new technologies and ways of working by pointing out what practices have to change and how.\_\n\nFacilitate most organisational change and ensure that the effort is spent effectively by locating where to focus the change effort.\_\n\nInform and support attempts of reorganisation by suggesting how to change the arrangements of practices to deliver the desired outcome.\_\_\n"
         title: How will this save me money?
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: How will it make me new money?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
