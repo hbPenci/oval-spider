@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: >-
+      In order to understand what Maturity Mapping is we’ll first explore three
+      key terms, capability, maturity and mapping.
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
