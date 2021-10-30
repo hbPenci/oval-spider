@@ -47,6 +47,21 @@ sections:
 
           4.  **Hide**: A movement downwards that suggests the practice should
           be less visible to the customer
+
+
+          \--------------
+
+
+          Adding new practices to the map are done two ways:
+
+
+          1.  **Compete**: This is when a new practice is added to the map to
+          challenge, and potentially remove, another practice in the belief that
+          more value can be delivered from the new practice.
+
+
+          2.  **Introduce**: This is a new practice that we believe will add to
+          the overall capability that map represents.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
