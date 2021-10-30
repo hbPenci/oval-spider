@@ -6,13 +6,7 @@ sections:
     features:
       - subtitle: The anchor
         content: "At the the top of every map is the **anchor**:\_ This describes who has the need and what is their need that the practices on the map are serving. \n"
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
