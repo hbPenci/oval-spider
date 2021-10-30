@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Define a Maturity Map Practice Card
-    subtitle: Optional hero section subtitle
     content: >
       At the core of any activity in any business or service are practices. We
       perform practices to get the work done. Both social and material aspects
