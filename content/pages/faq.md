@@ -54,17 +54,10 @@ sections:
       - title: What’s the license?
         subtitle: Is it free to use?Can I change it?
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Is it free to use?
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Can I change it?
         content_align: left
         actions: []
         actions_align: left
