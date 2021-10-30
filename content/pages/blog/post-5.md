@@ -13,7 +13,7 @@ tags:
 excerpt: "Remove friction between practices, capabilities or silos of practice (e.g. departments, teams, experts within teams) by highlighting misalignments in how the work is configured.Shorten the time to embed new technologies and ways of working by pointing out what practices have to change and how.\_Facilitate most organisational change and ensure that the effort is spent effectively by locating where to focus the change effort.\_Inform and support attempts of reorganisation by suggesting how to change the arrangements of practices to deliver the desired outcome."
 thumb_image: /images/AdobeStock_414881398_Preview.jpeg
 thumb_image_alt: Post 5 placeholder image
-image: images/classic/post-5.png
+image: /images/AdobeStock_414881398_Preview.jpeg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
