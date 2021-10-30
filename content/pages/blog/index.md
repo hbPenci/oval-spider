@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: FAQ
-    subtitle: The optional subtitle
+    subtitle: Frequently Asked Questions about Maturity Mapping
     align: center
     padding_top: medium
     padding_bottom: none
