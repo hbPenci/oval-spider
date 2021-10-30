@@ -35,7 +35,7 @@
             {
                 "label": " Contact Us",
                 "url": "/style-guide",
-                "style": "primary"
+                "style": "secondary"
             }
         ],
         "has_secondary_nav": true,
