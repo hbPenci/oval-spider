@@ -17,10 +17,6 @@ sections:
         media_position: left
         media_width: fifty
       - title: understand the change required
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
         actions:
           - label: Learn More
             url: /style-guide
