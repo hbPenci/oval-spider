@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: features_section
-    title: Features Section
+    title: 'Reveal, discover, understand'
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
