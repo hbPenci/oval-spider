@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: What is Maturity Mapping
-    subtitle: Optional hero section subtitle
     content: >
       In order to understand what Maturity Mapping is we’ll first explore three
       key terms, capability, maturity and mapping.
