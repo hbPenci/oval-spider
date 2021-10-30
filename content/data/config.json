@@ -155,7 +155,7 @@
     "announcement": {
         "has_anncmnt": true,
         "anncmnt_content": "Say 'Hello' @ Agile Scotland 2022  [**Learn More**](/pricing/)\n",
-        "anncmnt_align": "left",
+        "anncmnt_align": "right",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
