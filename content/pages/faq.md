@@ -82,7 +82,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Do you offer training?Contextualise
+      - title: Do you offer training?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
