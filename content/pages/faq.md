@@ -14,7 +14,7 @@ sections:
         title: How will this save me money?
       - title: How will it make me new money?
         content: "Discover new ways of interacting with customers and the wider environment in which the organisation operates by locating friction between practices and/or capabilities in meeting these needs.\_\_\n\nAllow emergence of new capabilities by setting direction (e.g. articulating a new yet unmet need, i.e. new meaning) and using Maturity Mapping to play through new combinations of existing practices and capabilities to meet that need. In combination with carrying out experiments, this is a deliberate form of exaptation (and making exapting a practice in itself). \_ \n"
-      - title: Viverra nam libero justo laoreet sit?
+      - title: How long does it take?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
