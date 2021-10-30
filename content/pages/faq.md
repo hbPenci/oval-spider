@@ -109,7 +109,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: Why do you presume that capabilities are composed of practices?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
