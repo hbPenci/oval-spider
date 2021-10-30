@@ -18,7 +18,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: What placement means
-      - subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+      - subtitle: What the symbols mean
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
