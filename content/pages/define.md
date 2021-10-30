@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Define Maturity Maps
-    content: >
-      In order to understand what Maturity Mapping is we’ll first explore three
-      key terms, capability, maturity and mapping.
     actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
