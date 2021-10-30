@@ -16,7 +16,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Features Section
     features:
       - content: "A capability is the ability of a team or a collection of teams to deliver an outcome.\_ Capabilities are composed of the actual day-to-day practises that people and teams do to deliver the outcome.\_ Therefore, to improve a capability, one needs to improve the underlying practises.\_\_\_\n\n\nWhilst some capabilities may be common across organisations, there are many others that are unique as they exist to serve the needs of that organisation and its customer.\_ Even where there are common capabilities across organisations, it is very likely that the practises are different.\_\_\n"
         actions: []
