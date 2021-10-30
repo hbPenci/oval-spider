@@ -52,7 +52,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: What’s the license?
-        subtitle: Is it free to use?Can I change it?
         title_align: left
         content: |
           *   Is it free to use?
