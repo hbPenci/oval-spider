@@ -20,13 +20,7 @@ sections:
         subtitle: What placement means
       - subtitle: What the symbols mean
         content: "On the map itself we visualise capabilities as **squares** and link them to other maps that describe the practices that compose it.\n\nPractices are **circles**.\_ Practises are things you can describe and observe the act of.\_ Practises integrate together to form capabilities.\n\n**Lines** that connect the practices represent the relationships between the practices. These can range from a need a practice has on another to a shared element of practice (meaning, material or skills).\n\nWhen the line is **broken** this suggests a poor connection e.g. a poor flow of information.\_\n"
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-3.png
         image_alt: Feature 3 placeholder image
         media_position: right
