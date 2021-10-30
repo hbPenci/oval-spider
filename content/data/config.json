@@ -133,7 +133,7 @@
         "content": "&copy; MM 2021"
     },
     "announcement": {
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "anncmnt_content": "Say 'Hello' @ Agile Scotland 2022  [**Learn More**](/pricing/)\n",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
