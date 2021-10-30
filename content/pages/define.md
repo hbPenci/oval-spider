@@ -46,10 +46,15 @@ sections:
         media_position: left
         media_width: fifty
       - subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Maturity Maps are a condensed visualisation of the network of
+          capabilities and practices that organisations and teams use to meet
+          the needs of their customers (and/or stakeholders). In maps space and
+          position on the map have meaning. Capabilities and practices are
+          positioned based on their maturity and visibility. This then allows us
+          to see where they can and should move in order to improve the overall
+          outcome by identifying what changes hold the most promise of improving
+          the value to the organisation. 
         actions:
           - label: Learn More
             url: /style-guide
