@@ -157,8 +157,7 @@
         "anncmnt_content": "Say 'Hello' @ Agile Scotland 2022  [**Learn More**](/pricing/)\n",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
+        "anncmnt_has_close": true
     },
     "domain": "https://oval-spider-d4640.netlify.app",
     "favicon": "/images/favicon.jpg"
