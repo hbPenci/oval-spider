@@ -54,7 +54,7 @@
     },
     "footer": {
         "logo": "/images/mm_logo_blue.png",
-        "logo_alt": "DIY logo",
+        "logo_alt": "Maturity Mapping",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [
