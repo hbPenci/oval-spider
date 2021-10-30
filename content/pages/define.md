@@ -6,10 +6,7 @@ sections:
     features:
       - title: The Big Title For the Feature
         subtitle: The anchor
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "At the the top of every map is the **anchor**:\_ This describes who has the need and what is their need that the practices on the map are serving. \n"
         actions:
           - label: Learn More
             url: /style-guide
