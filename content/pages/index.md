@@ -6,7 +6,7 @@ sections:
     features:
       - title: Reveal the capabilities you have have
         actions: []
-        image: /images/practice_ill.png
+        image: /images/blush_mm2.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
