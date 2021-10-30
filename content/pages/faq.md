@@ -52,7 +52,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: What’s the license?
-        subtitle: lorem-ipsum
+        subtitle: Is it free to use?Can I change it?
         title_align: left
         content: >-
           ## Lorem ipsum
