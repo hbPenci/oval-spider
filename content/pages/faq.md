@@ -19,10 +19,14 @@ sections:
       - title: What’s roughly the process?
         content: "Ideally, find someone who can facilitate the process who is not part of the organisation (or organisations) in which you are mapping. This is to minimise bias in the facilitation itself.\_\n\nStart by having a good problem statement (or statements) to frame the scope of the exercise, what needs are to be explored and know who has those needs (because you should consult them when validating if improvements were achieved). If possible, you should capture some hypotheses around what you expect to observe on the maps you intend to make.\_\n\nWe suggest starting with collecting the practices that are performed to meet that need on practice cards. Depending on the problem, you might want to add specific attributes for these practices, but make sure you keep the three core attributes (Meaning, Material, How to do it well).\_\n\nThen place the practices on the map and connect them, they should build a network. If you get a linear, or close to linear, connection of practices, you are likely to have missed important aspects of how the need is met. You might need to observe how the work is getting done to discover these. You want to make all practices that are needed to meet the need visible. \n"
       - title: How frequently should I do it?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          That’s really a question that can only be answered in context. A first
+          factor is: how quickly can you change your practices? Keep in mind
+          that the map is an abstraction of how you really meet the need and its
+          purpose is to facilitate discussions about how we can better meet that
+          need, so how often are you having these discussions? When is it useful
+          to reflect on how you could improve your practices again? Don’t update
+          the map just for an update’s sake, i.e. don’t make it bureaucratic. 
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
