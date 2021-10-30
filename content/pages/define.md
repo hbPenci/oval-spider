@@ -32,8 +32,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: 'What do we mean by maturity:'
-        content: "Maturity is the consistency of performance and coherence of integration of the practises that compose a capability.\_ That is,\_Maturity can be thought of as the assessment of the consistency in performing the capability or practise and its coherence of integration with other capabilities or practises, and how improving its performance and integration creates more value for the organisation. I.e. we can consider a practise or capability as mature if any of the possible improvements would not create more value for the organisation in the current context. \n"
+      - content: "Maturity is the consistency of performance and coherence of integration of the practises that compose a capability.\_ That is,\_Maturity can be thought of as the assessment of the consistency in performing the capability or practise and its coherence of integration with other capabilities or practises, and how improving its performance and integration creates more value for the organisation. I.e. we can consider a practise or capability as mature if any of the possible improvements would not create more value for the organisation in the current context. \n"
         actions:
           - label: Learn More
             url: /style-guide
