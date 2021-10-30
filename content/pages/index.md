@@ -49,7 +49,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
