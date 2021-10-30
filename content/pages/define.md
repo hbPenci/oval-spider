@@ -4,8 +4,7 @@ sections:
   - type: features_section
     title: Define Maturity Maps
     features:
-      - title: The Big Title For the Feature
-        subtitle: The anchor
+      - subtitle: The anchor
         content: "At the the top of every map is the **anchor**:\_ This describes who has the need and what is their need that the practices on the map are serving. \n"
         actions:
           - label: Learn More
