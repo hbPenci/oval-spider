@@ -7,7 +7,7 @@ sections:
       - actions: []
         image: /images/blush_mm2.png
         image_alt: illustration of a practice card
-        media_position: right
+        media_position: top
         media_width: fifty
         subtitle: Reveal the capabilities you have have
       - actions: []
