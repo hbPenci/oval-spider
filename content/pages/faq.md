@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: Optional hero section subtitle
+    subtitle: about Maturity Mapping
     align: center
     padding_top: large
     padding_bottom: small
