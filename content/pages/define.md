@@ -50,17 +50,7 @@ sections:
         media_width: fifty
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "\\[MISSING TEXT] ? and allows us to visualise the changes that have to take place to better deliver the enables a shared way of understanding and discussing a complex area.\_ It moves conversations on from “It’s just not working” to “Our maturity in this particular practise is preventing us from meeting that need”.\_ \n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
