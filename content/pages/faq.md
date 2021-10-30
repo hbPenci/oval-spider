@@ -122,7 +122,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: What do you mean by friction between practices?
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
