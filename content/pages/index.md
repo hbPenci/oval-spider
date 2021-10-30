@@ -28,7 +28,9 @@ sections:
   - type: features_section
     features:
       - title: Problem
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: >-
+          Even the best strategies fail when organisations do not recognise and
+          develop the capabilities required to meet their strategy. 
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
