@@ -43,13 +43,7 @@ sections:
           to see where they can and should move in order to improve the overall
           outcome by identifying what changes hold the most promise of improving
           the value to the organisation. 
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-3.png
         image_alt: Feature 3 placeholder image
         media_position: right
