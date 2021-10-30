@@ -4,8 +4,7 @@ sections:
   - type: features_section
     title: 'Reveal, discover, understand'
     features:
-      - title: Reveal the capabilities you have have
-        actions: []
+      - actions: []
         image: /images/blush_mm2.png
         image_alt: Feature 1 placeholder image
         media_position: right
