@@ -6,7 +6,6 @@ subtitle: >-
 date: '2020-06-02'
 author: content/data/team/gustav-purpleson.yaml
 categories:
-  - content/data/categories/tutorials.yaml
   - content/data/categories/category-31dxwiqim.json
 tags:
   - content/data/tags/stackbit.yaml
