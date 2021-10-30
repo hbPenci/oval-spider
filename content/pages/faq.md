@@ -111,17 +111,7 @@ sections:
         image_has_padding: false
       - title: Why do you presume that capabilities are composed of practices?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "There are many ways to understand the word capability. We do not claim that for all these meanings the practice lens is appropriate. What we mean by capability in the context of Maturity Mapping are the higher level abilities to create value that emerge from connected practices. In the language of practice theory, connected practices are complexes or sites, but when we talk about these things in an organisational context, we talk about capabilities that enable an organisation to meet needs, either those of the organisation itself, its customers or its stakeholders.\_\n\nIn all these situations, people have to perform practices to get that work done, i.e. exhibit the capability. They might do so with the help of technology, but even automated processes have to be maintained and, often, corrected or adapted by people. These activities are all practices.\_\n"
         content_align: left
         actions: []
         actions_align: left
