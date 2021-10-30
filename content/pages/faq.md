@@ -97,7 +97,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: Why do you focus on practices as the central unit of analysis?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
