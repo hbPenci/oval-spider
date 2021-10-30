@@ -6,7 +6,7 @@ sections:
     features:
       - actions: []
         image: /images/blush_mm2.png
-        image_alt: Feature 1 placeholder image
+        image_alt: illus
         media_position: right
         media_width: fifty
         subtitle: Reveal the capabilities you have have
