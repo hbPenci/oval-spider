@@ -4,7 +4,7 @@ sections:
   - type: features_section
     title: 'Reveal, discover, understand'
     features:
-      - title: The Big Title For the Feature
+      - title: 'Reveal the capabilities you have have,re'
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
