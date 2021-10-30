@@ -1,17 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Define Maturity Maps
-    actions: []
-    image: images/classic/hero.png
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: features_section
     title: Define Maturity Maps
     subtitle: e
