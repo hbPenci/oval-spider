@@ -160,5 +160,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://oval-spider-d4640.netlify.app"
+    "domain": "https://oval-spider-d4640.netlify.app",
+    "favicon": "/images/favicon.jpg"
 }
