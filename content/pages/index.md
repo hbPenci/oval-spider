@@ -15,6 +15,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: discover the new capabilities you need
       - title: understand the change required
         actions: []
         image: /images/blush_mm.png
