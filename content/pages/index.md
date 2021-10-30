@@ -9,6 +9,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+        subtitle: Reveal the capabilities you have have
       - title: 'discover the new capabilities you need '
         actions: []
         image: /images/mm_clipart_white.png
