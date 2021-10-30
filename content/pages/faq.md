@@ -67,7 +67,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Do you offer support?
-        subtitle: lorem-ipsum
         title_align: left
         content: |+
           ****
