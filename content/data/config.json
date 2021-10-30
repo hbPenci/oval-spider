@@ -50,7 +50,7 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Style Guide",
