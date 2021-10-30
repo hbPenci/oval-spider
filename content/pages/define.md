@@ -62,6 +62,9 @@ sections:
 
           2.  **Introduce**: This is a new practice that we believe will add to
           the overall capability that map represents.
+
+
+          A black bar visualises that there's a **blocker** to movement.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
