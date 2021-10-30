@@ -8,10 +8,7 @@ sections:
       perform practices to get the work done. Both social and material aspects
       are relevant when we want to understand how the work works. Capturing
       practices focuses the observation and analysis on activity, not the actor.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
