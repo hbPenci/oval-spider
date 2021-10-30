@@ -21,6 +21,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
+        subtitle: understand the change required
     feature_padding_vert: large
     align: center
     background_color: secondary
