@@ -18,7 +18,7 @@ sections:
         media_width: fifty
       - title: understand the change required
         actions: []
-        image: /images/map_ill2.png
+        image: /images/blush_mm.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
