@@ -5,13 +5,7 @@ sections:
     title: 'Reveal, discover, understand'
     features:
       - title: Reveal the capabilities you have have
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
