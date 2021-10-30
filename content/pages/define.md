@@ -26,17 +26,27 @@ sections:
         media_position: right
         media_width: fifty
       - subtitle: Patterns of movement and change
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Arrows show intended movement and they come in four flavours:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          1.  **Develop**: A movement to the right visualises the intention to
+          improve the practice is, well, practiced.
 
 
-          - Lorem ipsum
+          2.  **Reconfigure**: A movement to the left that notes a significant
+          change in the skills required, the tools used or the intention of the
+          practice. This movement suggests the way in which the practice is done
+          is likely to get worse before it gets better.
 
-          - dolor sit amet
+
+          3.  **Expose**: A movement upwards that suggests that the practice
+          needs to be made more visible to the customer, potentially increase
+          the interaction with the customer through this practice.
+
+
+          4.  **Hide**: A movement downwards that suggests the practice should
+          be less visible to the customer
         actions: []
         image_alt: lorem-ipsum
         media_position: top
