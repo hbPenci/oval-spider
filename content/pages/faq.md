@@ -27,6 +27,29 @@ sections:
           need, so how often are you having these discussions? When is it useful
           to reflect on how you could improve your practices again? Don’t update
           the map just for an update’s sake, i.e. don’t make it bureaucratic. 
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
