@@ -123,17 +123,7 @@ sections:
         image_has_padding: false
       - title: What do you mean by friction between practices?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "We are saying that in order to get any work done, we have to perform a configuration of connected practices. However, practices rarely connect well right from the start, even where they are performed by the same people, but problems of integration are even more common and can be long lived where connected practices are performed by different groups of people (e.g. different teams).\_\n\nWhere practices are really well integrated, we can see them as being effective, we can observe flow (both, as it is described in Lean, as well as experienced by the practitioners as described by [Mihaly Csikszentmihalyi](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi)). Practices can gel so well together that it is almost impossible for an outside observer to distinguish the particular practices in use (e.g. watching a music band perform a gig), i.e. how to distinguish the individual practices from each other, and sometimes it’s even difficult for the practitioners to describe the boundaries between practices, because some of what they are doing is tacit practice.\_\_\n\nIt is much easier to spot the boundaries of individual practices where the integration is not good yet, because you can experience what we mean by friction. It creates discomfort, sometimes painfully so. Often we cope with this pain by using work-arounds (which can also be a sign for missing intermediary practices) or, even worse, it can create conflict between individuals and groups. A common example for badly integrated practices is doing handoffs by “throwing it over the wall”.\_\n\nAgile suggests that we need to create multi-disciplinary teams to overcome that problem, so practitioners of the needed discipline can talk to each other and can work on the same problem at the same time, i.e. sharing context also in time. As the work to achieve the outcome becomes more complex, though, this leads to evergrowing teams and coordination by known means within that larger team becomes difficult or they can become silos themselves, creating friction with other parts of the organisation.\_\_\n\nMapping practices here allows us to identify where better integration of practices can help reduce or even remove the friction in a very specific way and without creating an immediate need to change team memberships. The practice lens allows us to get away from thinking in roles and other structural approaches to “fix the problem” and hone right in on the integration problem, something that can often be resolved by a short collaborative effort of those practitioners. Maturity Mapping also enables in this way to anticipate where we have to expect friction when we attempt to reconfigure existing and/or add in new practices.\_\n"
         content_align: left
         actions: []
         actions_align: left
