@@ -18,7 +18,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Features Section
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
