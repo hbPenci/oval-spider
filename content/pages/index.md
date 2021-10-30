@@ -12,7 +12,7 @@ sections:
         media_width: fifty
       - title: 'discover the new capabilities you need '
         actions: []
-        image: images/classic/feature-2.png
+        image: /images/map_1ill1.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
