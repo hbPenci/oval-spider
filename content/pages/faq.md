@@ -42,17 +42,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "We understand maturity models as de-contextualised experiences, they are context-free. I.e. the practitioners who create a maturity model are trying to capture the essence of their experience in a way that transcendences the specific contexts in which their experience was gained for the purpose to inform better practice in contexts of those who apply the maturity model. This requires people who want to apply a maturity model to re-contextualise the model to fit the specific environment they’re in.\_\n\nIn our experience, having learned and applied many maturity models (and keep in mind, not all maturity models self-declare as such), one characteristic seems to be always experienced: the ability to re-contextualise the model matters more for a successful application than the depth of expertise in the model. We also often notice that the recontextualisation changes at least some of the model’s assumptions about maturity, because context always matters when we inspect socio-technical dynamics. Therefore some aspects of context that are assumed to be shared by the model are in fact not shared by the context in which it is applied. Also, in context, practices are connected to practices outside of a (context-free) maturity model and those practices influence the maturity of a practice.\_\n\nFrom that perspective, Maturity Mapping is a meta-model, i.e. it is a way in which you can describe AND contextualise any practice-based maturity model. A key difference in Maturity Mapping is that we claim that “better” is only a valid judgement if confirmed by those whose needs we are trying to satisfy by performing the practice and that only practitioners in the context of which we are mapping can make meaningful statements about what is mature or what is not. Maturity mapping will surface faster how any maturity model has to be changed to fit a context than discovering so from failures experienced by practice.\_\n\nThe main difference then to a maturity model is that Maturity Mapping gives you a model that is tailored to your context. It does not even require you to start with an existing maturity model, you can build your own based on your own experience and understanding and it can evolve using the feedback from your efforts of implementing the model.\_\n"
         content_align: left
         actions: []
         actions_align: left
