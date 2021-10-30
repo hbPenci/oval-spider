@@ -44,6 +44,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: 'What do we mean by maturity:'
       - subtitle: What’s a map?
         content: >
           Maturity Maps are a condensed visualisation of the network of
