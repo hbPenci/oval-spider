@@ -64,10 +64,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features: []
-    feature_padding_vert: small
-    background_color: none
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
