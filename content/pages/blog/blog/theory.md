@@ -3,7 +3,6 @@ title: What’s the theory behind it?
 date: '2020-04-16'
 categories:
   - content/data/categories/tutorials.yaml
-  - content/data/categories/general.yaml
 tags: []
 excerpt: >-
   That’s really a question that can only be answered in context. A first factor
