@@ -54,7 +54,7 @@ sections:
       check out our frequently asked questions
     actions:
       - label: answers
-        url: /pricing
+        url: /faq
         style: primary
     actions_position: bottom
     align: center
