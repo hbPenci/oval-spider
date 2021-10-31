@@ -20,7 +20,7 @@ sections:
         image: /images/map_ill2.png
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: fourty
         subtitle: understand the change required
     feature_padding_vert: large
     align: center
