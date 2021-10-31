@@ -8,7 +8,7 @@ categories:
 excerpt: >-
   That’s really a question that can only be answered in context. A first factor
   is: how quickly can you change your practices?
-thumb_image: images/classic/post-1.png
+thumb_image: /images/AdobeStock_415117115_Preview.jpeg
 thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-1.png
 image_alt: Post 1 placeholder image
