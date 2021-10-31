@@ -1,6 +1,5 @@
 ---
 title: How frequently should I do it?
-subtitle: lorem-ipsum
 date: '2020-04-16'
 categories:
   - content/data/categories/tutorials.yaml
