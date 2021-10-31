@@ -50,6 +50,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    has_border: true
   - type: cta_section
     title: This is Call To Action
     content: >-
