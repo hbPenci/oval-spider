@@ -11,7 +11,7 @@ sections:
         media_width: fourty
         subtitle: Reveal the capabilities you have have
       - actions: []
-        image: /images/mm_clipart_white.png
+        image: /images/map_1ill1.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
