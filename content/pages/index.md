@@ -31,7 +31,7 @@ sections:
         subtitle: >-
           Even the best strategies fail when organisations do not recognise and
           develop the capabilities required to meet their strategy. 
-        image: /images/AdobeStock_415117115_Preview.jpeg
+        image: /images/practice_ill.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
