@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: How will it make me new money?
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
