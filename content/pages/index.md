@@ -5,7 +5,7 @@ sections:
     title: 'Reveal, discover, understand'
     features:
       - actions: []
-        image: /images/blush_mm2.png
+        image: /images/practice_ill.png
         image_alt: illustration of a practice card
         media_position: right
         media_width: fourty
