@@ -23,6 +23,7 @@ sections:
         media_position: right
         media_width: thirty-three
         subtitle: understand the change required
+        align: right
     feature_padding_vert: large
     align: center
     background_color: secondary
