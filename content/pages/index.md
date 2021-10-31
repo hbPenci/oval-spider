@@ -53,7 +53,7 @@ sections:
     content: |
       check out our frequently asked questions
     actions:
-      - label: Button
+      - label: answers
         url: /pricing
         style: primary
     actions_position: bottom
