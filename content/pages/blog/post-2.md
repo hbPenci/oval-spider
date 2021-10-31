@@ -12,8 +12,9 @@ tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  Ideally, find someone who can facilitate the process who is not part of the
+  organisation (or organisations) in which you are mapping. This is to minimise
+  bias in the facilitation itself.
 thumb_image: images/classic/post-2.png
 thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
