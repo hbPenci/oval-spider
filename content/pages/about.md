@@ -41,7 +41,7 @@ sections:
   - type: grid_section
     title: Our Services
     grid_items:
-      - title: Some City
+      - title: Workshops
         content: |+
 
 
