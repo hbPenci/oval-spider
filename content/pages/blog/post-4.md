@@ -45,4 +45,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Discover new ways of interacting with customers and the wider environment in which the organisation operates by locating friction between practices and/or capabilities in meeting these needs.
+
 Allow emergence of new capabilities by setting direction (e.g. articulating a new yet unmet need, i.e. new meaning) and using Maturity Mapping to play through new combinations of existing practices and capabilities to meet that need. In combination with carrying out experiments, this is a deliberate form of exaptation (and making exapting a practice in itself).  
