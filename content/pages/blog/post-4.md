@@ -12,7 +12,7 @@ excerpt: >-
   Discover new ways of interacting with customers and the wider environment in
   which the organisation operates by locating friction between practices and/or
   capabilities in meeting these needs.
-thumb_image: images/classic/post-4.png
+thumb_image: /images/AdobeStock_408757320_Preview.jpeg
 thumb_image_alt: Post 4 placeholder image
 image: images/classic/post-4.png
 image_alt: Post 4 placeholder image
