@@ -12,7 +12,7 @@ excerpt: >-
   Ideally, find someone who can facilitate the process who is not part of the
   organisation (or organisations) in which you are mapping. This is to minimise
   bias in the facilitation itself.
-thumb_image: images/classic/post-2.png
+thumb_image: /images/AdobeStock_408757593_Preview.jpeg
 thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
 image_alt: Post 2 placeholder image
