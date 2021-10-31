@@ -48,22 +48,10 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Ideally, find someone who can facilitate the process who is not part of the organisation (or organisations) in which you are mapping. This is to minimise bias in the facilitation itself. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Negat esse eam, inquit, propter se expetendam. Nam de isto magna dissensio est. Nullum inveniri verbum potest quod magis idem declaret Latine, quod Graece, quam declarat voluptas. Idemne potest esse dies saepius, qui semel fuit? Non est ista, inquam, Piso, magna dissensio. Ita multo sanguine profuso in laetitia et in victoria est mortuus. Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit. Duo Reges: constructio interrete.
+Start by having a good problem statement (or statements) to frame the scope of the exercise, what needs are to be explored and know who has those needs (because you should consult them when validating if improvements were achieved). If possible, you should capture some hypotheses around what you expect to observe on the maps you intend to make. 
 
-Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna fit in iis, qui habent ad virtutem progressionis aliquantum. Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet. Nihil enim hoc differt. Quorum sine causa fieri nihil putandum est.
+We suggest starting with collecting the practices that are performed to meet that need on practice cards. Depending on the problem, you might want to add specific attributes for these practices, but make sure you keep the three core attributes (Meaning, Material, How to do it well). 
 
-## Sed Nimis Multa
-
-An potest cupiditas finiri? Quamquam te quidem video minime esse deterritum. Sit, inquam, tam facilis, quam vultis, comparatio voluptatis, quid de dolore dicemus? Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.
-
-> Ita est quoddam commune officium sapientis et insipientis, ex quo efficitur versari in iis, quae media dicamus.
-
-Omnes enim iucundum motum, quo sensus hilaretur. Hoc est non dividere, sed frangere. Sed ne, dum huic obsequor, vobis molestus sim. Efficiens dici potest. Quia dolori non voluptas contraria est, sed doloris privatio. Quid dubitas igitur mutare principia naturae? Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me vocas, eum. Sed tu istuc dixti bene Latine, parum plane.
-
-Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. **Audeo dicere, inquit.** Perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis. Nunc haec primum fortasse audientis servire debemus. Nihil ad rem! Ne sit sane; Et certamen honestum et disputatio splendida! omnis est enim de virtutis dignitate contentio. Quonam, inquit, modo? Nullum inveniri verbum potest quod magis idem declaret Latine, quod Graece, quam declarat voluptas. Hoc ille tuus non vult omnibusque ex rebus voluptatem quasi mercedem exigit.
-
-- Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari - virum vetant in dolore.
-- Non igitur bene.
-
-Maximas vero virtutes iacere omnis necesse est voluptate dominante.
+Then place the practices on the map and connect them, they should build a network. If you get a linear, or close to linear, connection of practices, you are likely to have missed important aspects of how the need is met. You might need to observe how the work is getting done to discover these. You want to make all practices that are needed to meet the need visible.
