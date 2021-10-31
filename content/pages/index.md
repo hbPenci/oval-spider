@@ -49,7 +49,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
     has_border: true
   - type: cta_section
     title: This is Call To Action
