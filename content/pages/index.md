@@ -17,6 +17,7 @@ sections:
         media_position: left
         media_width: thirty-three
         subtitle: discover the new capabilities you need
+        align: center
       - actions: []
         image: /images/map_ill2.png
         image_alt: Feature 3 placeholder image
