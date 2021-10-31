@@ -52,7 +52,7 @@ sections:
     background_color: secondary
     has_border: true
     background_image: /images/bg.png
-    background_image_opacity: 10
+    background_image_opacity: 20
   - type: cta_section
     title: have questions?
     content: |
