@@ -50,6 +50,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image: /images/AdobeStock_414881398_Preview.jpeg
   - type: cta_section
     title: This is Call To Action
     content: >-
