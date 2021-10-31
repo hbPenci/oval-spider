@@ -10,7 +10,7 @@ sections:
         media_position: right
         media_width: thirty-three
         subtitle: Reveal the capabilities you have have
-        align: right
+        align: center
       - actions: []
         image: /images/map_1ill1.png
         image_alt: Feature 2 placeholder image
