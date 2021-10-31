@@ -1,9 +1,5 @@
 ---
 title: How will it make me new money?
-subtitle: >-
-  Discover new ways of interacting with customers and the wider environment in
-  which the organisation operates by locating friction between practices and/or
-  capabilities in meeting these needs.
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
