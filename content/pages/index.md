@@ -8,7 +8,7 @@ sections:
         image: /images/practice_ill.png
         image_alt: illustration of a practice card
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         subtitle: Reveal the capabilities you have have
       - actions: []
         image: /images/map_1ill1.png
