@@ -9,7 +9,7 @@ sections:
         image_alt: illustration of a practice card
         media_position: right
         media_width: thirty-three
-        subtitle: Reveal the capabilities you have have
+        subtitle: "Reveal the capabilities you have have,\_discover the new capabilities you need"
         align: center
       - actions: []
         image: /images/450250.png
