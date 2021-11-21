@@ -39,7 +39,7 @@ sections:
     background_color: secondary
     has_border: true
     background_image: /images/bg3.png
-    background_image_opacity: 100
+    background_image_opacity: 40
     background_image_size: cover
     background_image_position: center center
   - type: cta_section
