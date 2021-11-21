@@ -117,6 +117,8 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        content: |
+          ![](/images/450250.png)
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
