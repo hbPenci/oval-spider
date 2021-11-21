@@ -100,7 +100,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: read about Practice Cards
             url: '#'
             style: secondary
             has_icon: false
