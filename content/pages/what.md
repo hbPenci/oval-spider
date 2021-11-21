@@ -77,7 +77,7 @@ sections:
     actions: []
     grid_items:
       - title: defintions
-        subtitle: what are the terms we use when mapping
+        subtitle: the terms we use when mapping
         title_align: left
         content: >-
           ## Lorem ipsum
