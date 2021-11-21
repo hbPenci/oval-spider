@@ -73,7 +73,6 @@ sections:
     background_color: primary
   - section_id: how to map
     title: mapping 101
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
