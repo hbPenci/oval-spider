@@ -7,7 +7,7 @@ sections:
       In order to understand what Maturity Mapping is we’ll first explore three
       key terms, capability, maturity and mapping.
     actions: []
-    image: images/classic/hero.png
+    image: /images/250250.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
