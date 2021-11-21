@@ -82,7 +82,7 @@ sections:
         image: /images/450250.png
       - title: Maturity Mapping Practice Cards
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: Practice Cards
