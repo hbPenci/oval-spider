@@ -119,8 +119,6 @@ sections:
       - title: Maturity Mapping thingy three
         subtitle: lorem-ipsum
         title_align: left
-        content: |
-          ![](/images/450250.png)
         content_align: left
         actions:
           - label: thingy 3
