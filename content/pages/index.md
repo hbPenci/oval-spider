@@ -8,7 +8,7 @@ sections:
         image: /images/450250.png
         image_alt: illustration of a practice card
         media_position: right
-        media_width: thirty-three
+        media_width: fifty
         subtitle: "Reveal the capabilities you have have,\_discover the new capabilities you need &\_understand the change required"
         align: center
       - actions: []
