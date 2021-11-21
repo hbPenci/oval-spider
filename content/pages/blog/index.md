@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Questions?
-    subtitle: Frequently Asked Questions about Maturity Mapping
+    subtitle: Answers to frequently asked questions about Maturity Mapping
     align: center
     padding_top: medium
     padding_bottom: none
