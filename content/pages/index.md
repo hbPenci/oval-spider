@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: features_section
-    title: 'Reveal, discover, understand'
     features:
       - actions: []
         image: /images/450250.png
