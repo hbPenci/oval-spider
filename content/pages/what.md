@@ -97,6 +97,7 @@ sections:
         image_has_padding: false
         content: |
           ![](/images/450250.png)
+        image: /images/450250.png
       - title: Maturity Mapping Practice Cards
         subtitle: lorem-ipsum
         title_align: left
