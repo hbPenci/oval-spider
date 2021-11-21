@@ -134,7 +134,7 @@ sections:
           ![](/images/450250.png)
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: thingy 3
             url: '#'
             style: primary
             has_icon: false
