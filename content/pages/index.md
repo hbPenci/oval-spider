@@ -13,7 +13,7 @@ sections:
         title: 'Reveal, discover, understand'
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - type: features_section
     features:
       - title: Problem
