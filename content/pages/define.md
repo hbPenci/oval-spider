@@ -27,6 +27,9 @@ sections:
         media_width: fifty
       - subtitle: Patterns of movement and change
         content: >
+          ![](/images/650250.png)
+
+
           Arrows show intended movement and they come in four flavours:
 
 
@@ -50,6 +53,9 @@ sections:
 
 
           \--------------
+
+
+          ![](/images/650250.png)
 
 
           Adding new practices to the map are done two ways:
