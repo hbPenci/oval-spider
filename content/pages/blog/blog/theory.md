@@ -39,7 +39,7 @@ seo:
 layout: post
 author: content/data/team/dianne-ameter.yaml
 thumb_image: /images/AdobeStock_415116798_Preview.jpeg
-image: images/classic/post-1.png
+image: /images/450250.png
 ---
 Maturity Mapping is based on [Practice Theory](https://en.wikipedia.org/wiki/Practice_theory) and uses [Simon Wardley’s mapping technique](https://blog.gardeviance.org/2016/07/what-makes-map.html) as its main visualisation method. We were specifically inspired by [Social Practice theory](https://www.research.lancs.ac.uk/portal/en/publications/the-dynamics-of-social-practice-everyday-life-and-how-it-changes\(6ba37d6d-5a7a-4f02-b7b1-e734ab36ff0c\)/export.html). It sits within the domain of socio-technical research and analysis and has been influenced by Design (the academic type, as well as some other applications of Design), but we do not claim to be Designers. It has grown out of our own practice as organisational coaches and consultants. We use models from complexity and network research to inform experiments, e.g. [Cynefin](https://cynefin.io/index.php/Main_Page).
 
