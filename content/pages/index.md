@@ -38,7 +38,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     has_border: true
-    background_image: /images/bg.png
+    background_image: /images/bg2.png
     background_image_opacity: 20
   - type: cta_section
     title: have questions?
