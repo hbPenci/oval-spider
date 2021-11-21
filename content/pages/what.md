@@ -76,7 +76,7 @@ sections:
     subtitle: maturity mapping
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: defintions
         subtitle: lorem-ipsum
         title_align: left
         content: >-
