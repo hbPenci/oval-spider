@@ -23,7 +23,7 @@ sections:
         image: /images/about-3.jpg
         image_alt: Brandon Guidelines
         media_position: left
-        media_width: sixty
+        media_width: fifty
     feature_padding_vert: small
     background_color: primary
     background_image_position: left top
