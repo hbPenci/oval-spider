@@ -22,7 +22,7 @@ sections:
           develop the capabilities required to meet their strategy. 
         image: /images/about-3.jpg
         image_alt: Brandon Guidelines
-        media_position: right
+        media_position: left
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
