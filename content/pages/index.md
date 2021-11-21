@@ -12,7 +12,7 @@ sections:
         subtitle: Reveal the capabilities you have have
         align: center
       - actions: []
-        image: /images/map_1ill1.png
+        image: /images/450250.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: thirty-three
