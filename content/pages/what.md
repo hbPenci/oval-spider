@@ -76,7 +76,7 @@ sections:
     actions: []
     grid_items:
       - title: Maturity Mapping Definitions
-        subtitle: Mapping terms
+        subtitle: Terms used in Maturity Mapping
         title_align: left
         content_align: left
         actions:
