@@ -10,7 +10,7 @@ sections:
         media_position: right
         media_width: fifty
         subtitle: "Reveal the capabilities you have have,\_discover the new capabilities you need &\_understand the change required"
-        align: center
+        align: left
       - actions: []
         image: /images/450250.png
         image_alt: Feature 2 placeholder image
