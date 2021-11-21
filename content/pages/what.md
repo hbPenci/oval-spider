@@ -57,7 +57,6 @@ sections:
     align: center
     background_color: secondary
   - section_id: how to map
-    title: mapping 101
     actions: []
     grid_items:
       - title: Maturity Mapping Definitions
