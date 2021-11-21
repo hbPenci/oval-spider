@@ -119,7 +119,7 @@ sections:
         image_has_padding: false
         content: |
           ![](/images/450250.png)
-      - title: lorem-ipsum
+      - title: Maturity Mapping thingy three
         subtitle: lorem-ipsum
         title_align: left
         content: |
