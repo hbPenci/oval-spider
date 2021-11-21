@@ -78,8 +78,6 @@ sections:
       - title: MM Definitions
         subtitle: Mapping terms
         title_align: left
-        content: |
-          *
         content_align: left
         actions:
           - label: lorem-ipsum
