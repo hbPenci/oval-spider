@@ -4,7 +4,7 @@ sections:
   - type: features_section
     features:
       - actions: []
-        image: /images/450250.png
+        image: /images/montage.png
         image_alt: illustration of a practice card
         media_position: right
         media_width: fifty
