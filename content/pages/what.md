@@ -100,7 +100,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: more Practice Cards
+          - label: Practice Cards
             url: '#'
             style: secondary
             has_icon: false
