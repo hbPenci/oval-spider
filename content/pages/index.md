@@ -40,6 +40,7 @@ sections:
     has_border: true
     background_image: /images/bg2.png
     background_image_opacity: 20
+    background_image_size: contain
   - type: cta_section
     title: have questions?
     content: |
