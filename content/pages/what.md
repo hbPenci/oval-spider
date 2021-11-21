@@ -61,7 +61,7 @@ sections:
     grid_items:
       - title: Maturity Mapping Definitions
         subtitle: Terms used while Maturity Mapping
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: Definitions
