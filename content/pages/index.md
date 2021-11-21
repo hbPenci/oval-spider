@@ -5,7 +5,7 @@ sections:
     title: 'Reveal, discover, understand'
     features:
       - actions: []
-        image: /images/practice_ill.png
+        image: /images/650250.png
         image_alt: illustration of a practice card
         media_position: right
         media_width: thirty-three
