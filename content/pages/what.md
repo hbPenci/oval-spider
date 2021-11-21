@@ -72,7 +72,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - section_id: how to map
-    title: lorem-ipsum
+    title: 'mapping '
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
