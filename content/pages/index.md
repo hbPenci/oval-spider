@@ -12,13 +12,6 @@ sections:
         align: left
         title: 'Reveal, discover, understand'
       - actions: []
-        image: /images/450250.png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: thirty-three
-        subtitle: discover the new capabilities you need
-        align: center
-      - actions: []
         image: /images/250250.png
         image_alt: Feature 3 placeholder image
         media_position: right
