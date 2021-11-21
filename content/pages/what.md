@@ -76,7 +76,7 @@ sections:
     actions: []
     grid_items:
       - title: MM Definitions
-        subtitle: lorem-ipsum
+        subtitle: Mapping terms
         title_align: left
         content: >-
           ## Lorem ipsum
