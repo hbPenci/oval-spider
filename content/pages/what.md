@@ -65,7 +65,7 @@ sections:
         content_align: left
         actions:
           - label: Definitions
-            url: '#'
+            url: /
             style: primary
             has_icon: false
             icon: arrow-left
