@@ -86,7 +86,7 @@ sections:
         content_align: left
         actions:
           - label: Practice Cards
-            url: /wha
+            url: /what/practicecards
             style: primary
             has_icon: false
             icon: arrow-left
