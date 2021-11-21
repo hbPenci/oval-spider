@@ -80,7 +80,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: 'read about Mapping '
+          - label: read about Maturity Mapping definitions
             url: '#'
             style: secondary
             has_icon: false
