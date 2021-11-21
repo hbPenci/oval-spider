@@ -103,7 +103,7 @@ sections:
         image: /images/450250.png
       - title: Maturity Mapping thingy three
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: thingy 3
