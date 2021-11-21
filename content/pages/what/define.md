@@ -15,7 +15,7 @@ sections:
         actions: []
         image: /images/450250.png
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: top
         media_width: fifty
         subtitle: What placement means
       - subtitle: What the symbols mean
