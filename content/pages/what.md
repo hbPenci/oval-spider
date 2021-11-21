@@ -96,7 +96,7 @@ sections:
         image_align: left
         image_has_padding: false
         content: |
-          ![](/images/250250.png)
+          ![](/images/450250.png)
       - title: Practice cards
         subtitle: lorem-ipsum
         title_align: left
