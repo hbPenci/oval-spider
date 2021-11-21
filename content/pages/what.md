@@ -44,7 +44,7 @@ sections:
         actions: []
         image: /images/250250.png
         image_alt: Feature 3 placeholder image
-        media_position: right
+        media_position: left
         media_width: fifty
       - subtitle: What is a Maturity Map
         content: "\\[MISSING TEXT] ? and allows us to visualise the changes that have to take place to better deliver the enables a shared way of understanding and discussing a complex area.\_ It moves conversations on from “It’s just not working” to “Our maturity in this particular practise is preventing us from meeting that need”.\_ \n"
