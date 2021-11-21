@@ -48,7 +48,7 @@ sections:
       check out our frequently asked questions
     actions:
       - label: answers
-        url: /faq
+        url: /blog
         style: primary
     actions_position: bottom
     align: center
