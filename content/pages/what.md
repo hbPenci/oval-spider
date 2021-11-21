@@ -73,7 +73,7 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: maturity mapping
     actions: []
     grid_items:
       - title: lorem-ipsum
