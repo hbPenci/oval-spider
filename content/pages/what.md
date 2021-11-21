@@ -74,7 +74,15 @@ sections:
   - section_id: how to...
     title: how to...
     subtitle: maturity mapping
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     grid_items:
       - title: defintions
         subtitle: the terms used when mapping
