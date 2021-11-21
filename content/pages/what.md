@@ -42,7 +42,7 @@ sections:
           outcome by identifying what changes hold the most promise of improving
           the value to the organisation. 
         actions: []
-        image: /images/250250.png
+        image: /images/450250.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
