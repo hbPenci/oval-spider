@@ -28,9 +28,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    subtitle: >-
-      Reveal the capabilities you have have, discover the new capabilities you
-      need & understand the change required
   - type: features_section
     features:
       - title: Problem
