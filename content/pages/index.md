@@ -33,7 +33,7 @@ sections:
     actions: []
     actions_position: right
     actions_width: fourty
-    align: left
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: secondary
