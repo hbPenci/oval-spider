@@ -75,7 +75,7 @@ sections:
     title: mapping 101
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: definitions
         subtitle: lorem-ipsum
         title_align: left
         content: >-
