@@ -76,7 +76,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: center
     feature_padding_vert: large
     align: center
     background_color: secondary
