@@ -13,7 +13,7 @@ sections:
         media_width: sixty
       - content: "The Y axis represents how **visible** the practice is to those who have the need. If they interact with, or play a part in the practice then it is positioned near the top or is it something that they do not even know exists, therefore positioned further down.\n\nThe X\_ axis represents how **mature** a practice is. This is defined in four stages, Concept, Emerging, Good and Best. To help with positioning we use the following guides:\n\n*   Concept: Aware of/experimenting with the practice.\n\n*   Emerging: Getting to grips with/getting some value from the practice\n\n*   Good: Doing some aspects of the practice repeatedly but still needs improvement\n\n*   Best: Doing all aspects of the practice consistently, unlikely to need focused improvement effort and could be considered an exemplar.\n"
         actions: []
-        image: images/classic/feature-2.png
+        image: /images/450250.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
