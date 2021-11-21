@@ -75,7 +75,7 @@ sections:
     title: mapping 101
     actions: []
     grid_items:
-      - title: MM Definitions
+      - title: Maturity Mapping Definitions
         subtitle: Mapping terms
         title_align: left
         content_align: left
