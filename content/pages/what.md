@@ -71,7 +71,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - section_id: lorem-ipsum
+  - section_id: how to map
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
