@@ -7,7 +7,7 @@ sections:
       - subtitle: The anchor
         content: "At the the top of every map is the **anchor**:\_ This describes who has the need and what is their need that the practices on the map are serving. \n"
         actions: []
-        image: images/classic/feature-1.png
+        image: /images/450250.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
